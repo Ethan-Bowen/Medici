@@ -1,3 +1,9 @@
+/* Program name: Medici
+* Author: Ethan Bowen
+* Date last updated: 5/6/2026
+* Purpose: Play the game of Medici
+*/
+
 // ============================================================
 //  main.cpp  -  Entry point for Medici
 // ============================================================
